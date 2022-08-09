@@ -1,12 +1,12 @@
-<img src="https://i.ibb.co/0Dx0WYv/Github-cover.jpg"/>
+
 
 
 ### **Hi, I'm [manobikhercules][facebook]** :wave:
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-<a href="https://github.com/mdnaimurrahaman">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+ graphic+designe;"/>
+<a href="https://github.com/manobikhercules">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
 </a>
 
 <p>I'm passionate About Graphic Design And Front-End Web Development. I know how important user interface design is in the field of website development.
@@ -61,20 +61,14 @@ dedication.</p>
 
 ## **Get in Touch &#8595;**
 
-- Email: mdnaimur.work@gmail.com
-- Facebook: https://web.facebook.com/emon2075
-- LinkedIn: https://www.linkedin.com/in/mdnaimurrahaman
+- Email: manobikhercules@gmail.com
+- Facebook: https://web.facebook.com/DeSatanicVerses
+- LinkedIn: https://www.linkedin.com/in/DeSatanicVerses
   <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
- <a href="https://github.com/mdnaimurrahaman">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdnaimurrahaman&theme=react-dark" />
- </a>
- <br/>
 
-[facebook]: https://web.facebook.com/emon2075 'Facebook'
-[dribbble]: https://dribbble.com/impressdesignry 'Dribbble'
-[linkedin]: https://www.linkedin.com/in/mdnaimurrahaman 'LinkedIn'
-[github]: https://github.com/mdnaimurrahaman 'Github'
-[fiverr]: https://www.fiverr.com/mdnaimur_202 'Fiverr'
-[link]:  https://github.com/mdnaimurrahaman
+
+[facebook]: https://web.facebook.com/manobikhercules 'Facebook'
+[github]: https://github.com/manobikhercules 'Github'
+[link]:  https://github.com/manobikhercules
+
