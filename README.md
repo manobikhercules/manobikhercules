@@ -70,4 +70,5 @@ dedication.</p>
 [facebook]: https://web.facebook.com/DeSatanicVerses 'Facebook'
 [github]: https://github.com/manobikhercules 'Github'
 [link]:  https://github.com/manobikhercules
+[linkedin]: https://www.linkedin.com/in/manobikhercules 'Linkedin'
 
