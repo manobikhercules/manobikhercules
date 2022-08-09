@@ -6,7 +6,7 @@
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
 <a href="https://github.com/manobikhercules">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
+  <img src="src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <p>I'm passionate About Graphic Design And Front-End Web Development. I know how important user interface design is in the field of website development.
